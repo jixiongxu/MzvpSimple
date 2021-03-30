@@ -1,0 +1,5 @@
+include ':mzvp_android'
+include ':mzvp_compiler'
+include ':mzvp_java'
+include ':app'
+rootProject.name = "Mzvp"
