@@ -29,7 +29,7 @@ import javax.lang.model.element.TypeElement;
 
 
 /**
- * 作者: xujixiong@meizu.com
+ * 作者: 991167006@qq.com
  * 创建时间: 21-1-22 下午2:45
  * 需求/缺陷:
  * 描述: 处理注解生成代码

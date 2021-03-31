@@ -10,6 +10,12 @@ import com.example.mzvp_android.mode.TestMzvpMode;
 import com.example.mzvp_java.support.IMzvpView;
 import com.example.mzvp_java.support.MzvpBind;
 
+/**
+ * 作者: 991167006@qq.com
+ * 创建时间: 21-1-22 下午2:06
+ * 需求/缺陷: 暂无需求id
+ * 描述:自定义控件TestMzvpView
+ */
 @MzvpBind(TestMzvpView.ID)
 public class TestMzvpView extends LinearLayout implements IMzvpView<TestMzvpMode> {
 

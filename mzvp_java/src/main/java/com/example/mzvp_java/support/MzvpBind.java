@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 作者: xujixiong@meizu.com
+ * 作者: 991167006@qq.com
  * 创建时间: 21-1-22 下午1:53
  * 需求：暂无需求id
  * 描述: 用来标注view。被标注的对象必须继承与view或者view的子类

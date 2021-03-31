@@ -1,7 +1,7 @@
 package com.example.mzvp_java.manager;
 
 /**
- * 作者: xujixiong@meizu.com
+ * 作者: 991167006@qq.com
  * 创建时间: 21-1-23 下午3:51
  * 需求/缺陷:
  * 描述:　mzvp 数据key--class对相应关系封装

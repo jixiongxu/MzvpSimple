@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * 作者: xujixiong@meizu.com
+ * 作者: 991167006@qq.com
  * 创建时间: 21-1-22 下午2:15
  * 需求/缺陷:
  * 描述: 管理mzvp对象的key-class关系

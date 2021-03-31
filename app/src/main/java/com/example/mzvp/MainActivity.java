@@ -1,6 +1,5 @@
 package com.example.mzvp;
 
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
@@ -13,14 +12,12 @@ import com.example.mzvp_java.support.IMzvpView;
 
 public class MainActivity extends Activity {
 
-    private LinearLayout mContentLayout;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mContentLayout = findViewById(R.id.content_layout);
+        LinearLayout mContentLayout = findViewById(R.id.content_layout);
 
         TestMzvpMode mode = new TestMzvpMode();
         mode.txt = "this is mzvp ";
